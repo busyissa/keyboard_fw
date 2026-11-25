@@ -1,3 +1,6 @@
 This text file will compile all my design choices 
 for the keyboard firmware. 
 
+
+How will key clicks be saved - what kind of buffer?
+    - Maybe some sort of ring buffer. 
